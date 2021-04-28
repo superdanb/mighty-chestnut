@@ -354,9 +354,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: name-name
-        type: string
-        required: true
   post:
     type: page
     urlPath: /blog/{slug}
