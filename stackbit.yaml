@@ -1700,6 +1700,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  fsdfsd:
-    type: data
-    label: fsdfsd
